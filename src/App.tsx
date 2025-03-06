@@ -33,7 +33,7 @@ export const App = () => {
           </button>
 
           <button
-           className="bg-blue-500 text-white px-4 py-2 rounded-md shadow-md cursor-pointer hover:bg-white-600 transition-colors"
+           className="bg-blue-500 text-white px-4 py-2 rounded-md shadow-md cursor-pointer hover:bg-blue-600 transition-colors"
           onClick={()=>setTitle("GYARADOS")}>
           CLICCA QUI PER SBLOCCARE FASE 1 
            
