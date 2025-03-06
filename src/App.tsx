@@ -15,7 +15,7 @@ export const App = () => {
 
         <div className="flex justify-center space-x-4 mb-2">
           <a href="https://vite.dev" target="_blank">
-            <img src={viteLogo} alt="Vite logo" />
+            <img src={viteLogo} alt="Vite logo " />
           </a>
           <a href="https://react.dev" target="_blank">
             <img src={reactLogo} alt="React logo" />
