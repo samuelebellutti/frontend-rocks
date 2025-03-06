@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
 body {
-  background-image: url('/geodude-pattern.png');
+  background-image: url('https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/129.png');
   background-repeat: repeat;
 }
