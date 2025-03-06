@@ -8,7 +8,7 @@ export const AppRouter = ()=>{
     <BrowserRouter>
     <Routes>
         <Route path= "/fronted-rocks" element={<RootRoute/>}/>
-        <Route path= "fronted-rocks/dettaglio/:id" element={<DetailRoute/>}/>
+        <Route path= "/fronted-rocks/dettaglio/:id" element={<DetailRoute/>}/>
 
 
     </Routes>
